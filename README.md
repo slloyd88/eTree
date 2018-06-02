@@ -1,2 +1,3 @@
 # eTree
-eTree geneology system
+eTree geneology system works on a Mac or a PC.
+
